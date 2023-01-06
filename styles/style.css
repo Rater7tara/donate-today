@@ -1,8 +1,3 @@
-main{
-    width: 1200px;
-    padding-left: 60px;
-    padding-right: 60px;
-}
 .header{
     font-family: 'Anybody', cursive;
     font-family: 'Open Sans', sans-serif; 
@@ -169,6 +164,7 @@ p{
 }
 
 footer{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: black;
     color: #FF5959;
     text-align: center;
